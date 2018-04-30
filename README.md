@@ -1,6 +1,7 @@
 # uthreads
 User Level Threads implemented in xv6
-Project User Level threads library along with slightly smart scheduler.
+
+Project mplements User Level threads library along with slightly smart scheduler.
 Scheduler has features of priority inversion and priority donation.
 Mutex thread locks are also implemented.
 Test programs uthreadTest 1 through 6 are created to testify correctness of implementation.
